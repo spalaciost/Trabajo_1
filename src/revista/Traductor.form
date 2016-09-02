@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="15" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Component id="FrIn" max="32767" attributes="0"/>
+                  <Component id="FrEs" alignment="1" max="32767" attributes="0"/>
+                  <Component id="ItFr" alignment="1" max="32767" attributes="0"/>
+                  <Component id="ItIn" alignment="1" max="32767" attributes="0"/>
+                  <Component id="ItEs" alignment="1" max="32767" attributes="0"/>
+                  <Component id="InFr" alignment="1" max="32767" attributes="0"/>
+                  <Component id="InIt" alignment="1" max="32767" attributes="0"/>
+                  <Component id="InEs" alignment="1" max="32767" attributes="0"/>
+                  <Component id="EsFr" alignment="1" max="32767" attributes="0"/>
+                  <Component id="EsIt" alignment="1" max="32767" attributes="0"/>
+                  <Component id="EsIn" alignment="1" pref="175" max="32767" attributes="0"/>
+                  <Component id="FrIt" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="EspIng" min="-2" max="-2" attributes="0"/>
+                  <Component id="EspIta" min="-2" max="-2" attributes="0"/>
+                  <Component id="EspFra" min="-2" max="-2" attributes="0"/>
+                  <Component id="IngEsp" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="IngIta" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="IngFra" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="ItaEsp" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="ItaIng" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="ItaFra" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="FraEsp" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="FraIng" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="FraIta" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="109" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="EsIn" min="-2" max="-2" attributes="0"/>
+                                  <Component id="EspIng" min="-2" pref="18" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="EsIt" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="EspIta" alignment="3" min="-2" pref="18" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="EsFr" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="EspFra" alignment="3" min="-2" pref="18" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="InEs" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="InIt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="InFr" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="IngEsp" min="-2" pref="18" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="IngIta" min="-2" pref="18" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="IngFra" min="-2" pref="18" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ItEs" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ItIn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ItFr" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="ItaEsp" min="-2" pref="18" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="ItaIng" min="-2" pref="18" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ItaFra" min="-2" pref="18" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="FrEs" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="FrIn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="FrIt" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="FraEsp" min="-2" pref="18" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="FraIng" min="-2" pref="18" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="FraIta" min="-2" pref="18" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="85" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="EsIn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="EsIt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EsItActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="EsFr">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="InEs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="InIt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="InFr">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ItEs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ItIn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ItFr">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="FrEs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="FrIn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="FrIt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ingrese texto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="EspIng">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esp - Ing"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EspIngActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="EspIta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esp - Ita"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EspItaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="EspFra">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esp - Fra"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EspFraActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="IngEsp">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ing - Esp"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="IngIta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ing - Ita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="IngFra">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ing - Fra"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="IngFraActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ItaEsp">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ita - Esp"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ItaIng">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ita - Ing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ItaFra">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ita - Fra"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ItaFraActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="FraEsp">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fra - Esp"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FraEspActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="FraIng">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fra - Ing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="FraIta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fra - Ita"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FraItaActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
